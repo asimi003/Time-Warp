@@ -1,4 +1,6 @@
 # Time-Warp
+Computer Graphics & Electronic Games Project
+
 Team GitHub Link:
 
 https://github.com/kotooriiii/TimeWarp.git
